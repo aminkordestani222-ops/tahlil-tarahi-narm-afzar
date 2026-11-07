@@ -1,2 +1,2 @@
 # tahlil-tarahi-narm-afzar
-sit ‘nike’
+sit ‘nike.com’
